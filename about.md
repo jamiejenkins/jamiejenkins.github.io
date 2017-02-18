@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Test Blog
+Test Blog  
+Editorial via working copy test
 
 ### More Information
 
