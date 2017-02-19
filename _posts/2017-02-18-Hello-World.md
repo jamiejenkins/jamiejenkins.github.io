@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello World .01
+tags: random
 ---
 
 Hello World  
