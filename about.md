@@ -7,7 +7,7 @@ permalink: /about/
 Test Blog  
 Editorial via working copy test
 
-Check post-update hook jekyll build
+Check post-update hook jekyll build try 2
 
 ### More Information
 
