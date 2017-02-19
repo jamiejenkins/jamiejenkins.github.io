@@ -6,6 +6,7 @@ permalink: /about/
 
 Test Blog  
 Editorial via working copy test
+Test Auto Deploy on Push (deploy.php)
 
 ### More Information
 
