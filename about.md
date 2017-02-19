@@ -7,6 +7,8 @@ permalink: /about/
 Test Blog  
 Editorial via working copy test
 
+Check post-update hook jekyll build
+
 ### More Information
 
 A place to include any other types of information that you'd like to include about yourself.
