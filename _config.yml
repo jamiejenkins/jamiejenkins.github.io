@@ -25,7 +25,8 @@ footer-links:
   instagram:
   linkedin: jenkinsjamie
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  keybase: jamiejenkins
+  rss: enable # just type anything here for a working RSS icon
   twitter: jamiejenkins
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
@@ -87,5 +88,3 @@ exclude:
   - README.md
   - CNAME
   - [.well-known]
-
-theme: jekyll-theme-minimal
