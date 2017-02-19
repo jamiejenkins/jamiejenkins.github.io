@@ -2,7 +2,7 @@
 layout: post
 title: Hello World .01
 tags: random
-published: False
+published: True
 ---
 
 Hello World  
