@@ -8,11 +8,11 @@
 
     // array of commands
     $commands = array(
-	'cd /var/www/html/jamiejenkins.com/src/jamiejenkins.github.io/',
-        'echo $PWD',
+//	'cd /var/www/html/jamiejenkins.com/src/jamiejenkins.github.io/',
+//        'echo $PWD',
         'whoami',
-        'git pull',
-        'git status',
+        'gitsitepull',
+//        'git status',
 //        'git submodule sync',
 //        'git submodule update',
 //        'git submodule status',
