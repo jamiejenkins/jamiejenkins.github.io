@@ -87,3 +87,5 @@ exclude:
   - README.md
   - CNAME
   - [.well-known]
+
+theme: jekyll-theme-minimal
