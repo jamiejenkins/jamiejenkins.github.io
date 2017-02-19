@@ -8,7 +8,7 @@
 
     // array of commands
     $commands = array(
-	'cd /var/www/html/jamiejenkins.com/src/jamiejenkins.github.io/
+	'cd /var/www/html/jamiejenkins.com/src/jamiejenkins.github.io/',
         'echo $PWD',
         'whoami',
         'git pull',
