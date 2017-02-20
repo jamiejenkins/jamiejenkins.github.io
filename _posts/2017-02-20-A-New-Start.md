@@ -22,7 +22,8 @@ In preparation for the [Micro Blog](https://micro.blog/) launch I have reworked 
 - On iOS I'm using [Working Copy](https://itunes.apple.com/us/app/working-copy-powerful-git-client/id896694807?mt=8) and [Editorial](https://itunes.apple.com/us/app/editorial/id673907758?mt=8) to change and push back to github.
   This in turn triggers the github webhook that runs the deploy.php on my server to do a git pull and jekyll build.
  
-### Next
+### Next Steps
 
 - I may write up a more detailed post of all the steps in this setup at some point.
 - Waiting for [Micro Blog](https://micro.blog) to launch so I can reserve my username!
+- Customize the css and page layout a little bit.
