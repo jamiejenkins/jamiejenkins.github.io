@@ -1,0 +1,24 @@
+---
+layout: post
+title: A New Start
+tags: 
+published: False
+---
+
+In preparation for the [Micro.blog](http://micro.blog/) launch I have reworked my website infrastructure.  I wanted it to be static, easily updatable with markdown files, and backed up in some way outside of my own domain.  So I decided to try [Jekyll](https://jekyllrb.com).
+
+### Initial Setup
+
+- I created a clone of [Jekyll Now](https://github.com/barryclark/jekyll-now) to [My own repo](https://github.com/jamiejenkins/jamiejenkins.github.io).
+- This automatically creates a [Github Pages](https://pages.github.com/)  as the backup website.
+- I setup a [Linode](https://linode.com) server as the primary webserver.
+- Created an deploy key for www-data user to do an automated git pull when I do a push to [GitHub](https://github.com).
+- Added deploy.php to the public_html to handle the webhook from [GitHub](https://github.com).
+
+### Posting workflow
+
+- I can edit posts locally on server which are published with a git push to github.
+- I can also do a jekyll build locally only to test which is exposed in a [subdirectory](https://jamiejenkins.com/local/) of the main [site](https://jamiejenkins.com).
+- On iOS I'm using [Working Copy](https://itunes.apple.com/us/app/working-copy-powerful-git-client/id896694807?mt=8) and [Editorial](https://itunes.apple.com/us/app/editorial/id673907758?mt=8) to change and push back to github (which triggers the deploy.php on my server to do a git pull and jekyll build).
+
+### 
