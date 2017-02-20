@@ -19,7 +19,7 @@ In preparation for the [Micro Blog](https://micro.blog/) launch I have reworked 
 
 - I can edit posts locally on server which are published with a git push to github.
 - I can also do a jekyll build locally only to test which is exposed in a [subdirectory](https://jamiejenkins.com/local/) of the main [site](https://jamiejenkins.com).
-- On iOS I'm using [Working Copy](https://itunes.apple.com/us/app/working-copy-powerful-git-client/id896694807?mt=8) and [Editorial](https://itunes.apple.com/us/app/editorial/id673907758?mt=8) to change and push back to github.
+- On iOS I'm using [Working Copy](https://workingcopyapp.com) and [Editorial](http://omz-software.com/editorial/) to change and push back to github.
   This in turn triggers the github webhook that runs the deploy.php on my server to do a git pull and jekyll build.
  
 ### Next Steps
