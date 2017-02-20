@@ -2,10 +2,10 @@
 layout: post
 title: A New Start
 tags: 
-published: False
+published: True
 ---
 
-In preparation for the [Micro.blog](http://micro.blog/) launch I have reworked my website infrastructure.  I wanted it to be static, easily updatable with markdown files, and backed up in some way outside of my own domain.  So I decided to try [Jekyll](https://jekyllrb.com).
+In preparation for the [Micro Blog](https://micro.blog/) launch I have reworked my website infrastructure.  I wanted it to be static, easily updatable with markdown files, and backed up in some way outside of my own domain.  So I decided to try [Jekyll](https://jekyllrb.com).
 
 ### Initial Setup
 
@@ -19,6 +19,10 @@ In preparation for the [Micro.blog](http://micro.blog/) launch I have reworked m
 
 - I can edit posts locally on server which are published with a git push to github.
 - I can also do a jekyll build locally only to test which is exposed in a [subdirectory](https://jamiejenkins.com/local/) of the main [site](https://jamiejenkins.com).
-- On iOS I'm using [Working Copy](https://itunes.apple.com/us/app/working-copy-powerful-git-client/id896694807?mt=8) and [Editorial](https://itunes.apple.com/us/app/editorial/id673907758?mt=8) to change and push back to github (which triggers the deploy.php on my server to do a git pull and jekyll build).
+- On iOS I'm using [Working Copy](https://itunes.apple.com/us/app/working-copy-powerful-git-client/id896694807?mt=8) and [Editorial](https://itunes.apple.com/us/app/editorial/id673907758?mt=8) to change and push back to github.
+  This in turn triggers the github webhook that runs the deploy.php on my server to do a git pull and jekyll build.
+ 
+### Next
 
-### 
+- I may write up a more detailed post of all the steps in this setup at some point.
+- Waiting for [Micro Blog](https://micro.blog) to launch so I can reserve my username!
