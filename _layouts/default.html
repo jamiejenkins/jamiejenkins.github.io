@@ -42,6 +42,7 @@
       <div class="container">
         <footer class="footer">
           {% include svg-icons.html %}
+          {% if site.environment == 'local' %} <h2>LOCAL</h2> {% endif %}
         </footer>
       </div>
     </div>
