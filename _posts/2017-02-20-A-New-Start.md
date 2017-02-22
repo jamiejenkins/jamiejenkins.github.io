@@ -2,6 +2,9 @@
 layout: post
 title: A New Start
 tags: 
+- blog
+- microblog
+- jekyll
 published: True
 ---
 
