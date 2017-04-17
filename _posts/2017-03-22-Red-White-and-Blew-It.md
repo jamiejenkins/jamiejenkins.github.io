@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Red, White, and Blew it
-tags: 
+tags: Apple
 published: True
 ---
 
