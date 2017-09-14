@@ -14,7 +14,7 @@ In preparation for the [Micro Blog](https://micro.blog/) launch I have reworked 
 - I created a clone of [Jekyll Now](https://github.com/barryclark/jekyll-now) to [My own repo](https://github.com/jamiejenkins/jamiejenkins.github.io).
 - This automatically creates a [Github Pages](https://pages.github.com/)  as the [backup website](https://jamiejenkins.github.io/).
 - I setup a [Linode](https://linode.com) server as the primary webserver.
-- Created an deploy key for www-data user to do an automated git pull when I do a push to [GitHub](https://github.com).
+- Created a deploy key for www-data user to do an automated git pull when I do a push to [GitHub](https://github.com).
 - Added deploy.php to the public_html to handle the webhook from [GitHub](https://github.com).
 
 ### Posting workflow
