@@ -26,7 +26,7 @@
 .sc-btn{
 	display: inline-block;
 	position: relative;
-	margin:0 .25em .5em 0;
+	margin:0 0 0 0;
 	padding:0;
 	color:#fff;
 	font-family: "Helvetica Neue", "Helvetica", sans-serif;
@@ -134,7 +134,7 @@
 		// box-shadow:inset rgba(50,50,50,.01) 0px 5em 0;
 	}
 	&:active{
-		box-shadow:inset rgba(0,0,0,0.3) 0px .15em 0.25em;
+		// box-shadow:inset rgba(0,0,0,0.3) 0px .15em 0.25em;
 	}
 }
 .sc--shine{
