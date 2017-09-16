@@ -335,6 +335,17 @@
 		@include linear-gradient(top, $basecolor, 5%);
 	}
 }
+.sc--keybase{
+	$basecolor: #fd8a00;
+	@include linear-gradient(top, $basecolor);
+	&:hover{
+		@include linear-gradient(top, $basecolor, 15%, 12%, 90%);
+		background-color:lighten($basecolor, 2%);
+	}
+	&:active{
+		@include linear-gradient(top, $basecolor, 5%);
+	}
+}
 .sc--lastfm{
 	$basecolor: #bc2020;
 	@include linear-gradient(top, $basecolor);
