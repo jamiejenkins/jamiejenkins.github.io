@@ -131,10 +131,10 @@
 	box-shadow:none;
 	background-image:none !important;
 	&:hover{
-		// box-shadow:inset rgba(50,50,50,.01) 0px 5em 0;
+		box-shadow:inset rgba(50,50,50,.01) 0px 5em 0;
 	}
 	&:active{
-		// box-shadow:inset rgba(0,0,0,0.3) 0px .15em 0.25em;
+		box-shadow:inset rgba(0,0,0,0.3) 0px .15em 0.25em;
 	}
 }
 .sc--shine{
