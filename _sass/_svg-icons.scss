@@ -336,7 +336,7 @@
 	}
 }
 .sc--keybase{
-	$basecolor: #ff6f21;
+	$basecolor: #33a0ff; //ff6f21
 	@include linear-gradient(top, $basecolor);
 	&:hover{
 		@include linear-gradient(top, $basecolor, 15%, 12%, 90%);
