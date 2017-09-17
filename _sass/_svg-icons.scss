@@ -38,7 +38,7 @@
 	border:0;
 	// border:rgba(0,0,0,0.2) 1px solid;
 	// border-bottom-color:rgba(0,0,0,0.3);
-	@include border-radius(.5em);
+	@include border-radius(.25em);
 	$basecolor: #333;
 	@include linear-gradient(top, $basecolor, 15%);
 	// box-shadow:inset rgba(0,0,0,0.1) 0px -0.15em 0px, inset rgba(255,255,255,0.2) 0px 0.15em 0px, rgba(0,0,0,0.3) 0px 0.1em .3em;
@@ -61,8 +61,8 @@
 		float:left;
 	}
 	.sc-icon{
-		margin:0 -.4em 0 0;
-		padding:0.6em .8em .5em;
+		margin:0 0 0 0;
+		padding:0.5em .5em .5em;
 		border-right:rgba(255,255,255,0.1) .1em solid;
 		box-shadow:inset rgba(0,0,0,0.1) -.1em 0px 0px;
 	}
