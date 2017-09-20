@@ -23,6 +23,7 @@
 	-o-border-radius:#{$rad};
 }
 
+
 .sc-btn{
 	display: inline-block;
 	position: relative;
@@ -63,8 +64,6 @@
 	.sc-icon{
 		margin:0 0 0 0;
 		padding:0.5em .5em .5em;
-		border-right:rgba(255,255,255,0.1) .1em solid;
-		box-shadow:inset rgba(0,0,0,0.1) -.1em 0px 0px;
 	}
 	.sc-text{
 		padding:.95em 1em .85em 1em;
