@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Havana in the Highlands
-tags: random
+tags: 
+- cooking
+- random
 published: True
 ---
  

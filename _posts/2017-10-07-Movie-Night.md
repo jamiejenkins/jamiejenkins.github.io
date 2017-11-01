@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Driveway Movie Night
-tags: 
+tags: random
 published: True
 ---
 
