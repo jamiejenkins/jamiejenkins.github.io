@@ -2,7 +2,7 @@
 layout: post
 title: Cooking Chili
 tags: cooking
-published: False
+published: True
 ---
 
 Bacon, Beef Brisket, Chocolate, Beer… 
