@@ -18,21 +18,21 @@ avatar: https://jamiejenkins.com/images/avatar.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble: #jamiejenkins
-  email: webmaster@jamiejenkins.com
+  twitter: jamiejenkins
   facebook: jamiejenkins
-  flickr: jenkinsjamie
-  github: jamiejenkins
+  reddit: jamie_jenkins
+  googleplus: # anything in your profile username that comes after plus.google.com/
   instagram: jamiejenkins
-  linkedin: jenkinsjamie
+  flickr: #jenkinsjamie
+  youtube: # channel/<your_long_string> or user/<user-name>
+  github: jamiejenkins
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  linkedin: #jenkinsjamie
   pinterest: 
   keybase: jamiejenkins
+  email: #webmaster@jamiejenkins.com
   rss: enable # just type anything here for a working RSS icon
-  reddit: jamie_jenkins
-  twitter: jamiejenkins
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-  microblog: jamiejenkins
+  microblog: #jamiejenkins
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
