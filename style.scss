@@ -273,8 +273,8 @@ nav {
 
 .wrapper-footer {
   margin-top: 20px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
+  border-top: 1px solid $darkGray;
+  border-bottom: 1px solid $darkGray;
   background-color: $lightGray;
 }
 
@@ -286,13 +286,13 @@ footer {
 // for tag cloud and archives
 .tag-cloud {
   list-style: none;
-  padding: 2px;
+  padding: 5px;
   text-align: justify; 
   font-size: 16px;
   background-color: $lightGray;
   li {
     display: inline-block;
-    margin: 2px 4px 4px 2px; 
+    margin: 0px 2px 0px 0px; 
   }
 }
 #archives {
