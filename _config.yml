@@ -51,6 +51,8 @@ url: https://jamiejenkins.com
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+excerpt_seperator: "<!--more-->"
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
