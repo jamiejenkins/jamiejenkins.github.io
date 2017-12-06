@@ -9,7 +9,7 @@ published: True
 
 In preparation for the [Micro Blog](https://micro.blog/) launch I have reworked my website infrastructure.  I wanted it to be static, easily updatable with markdown files, and backed up in some way outside of my own domain.  So I decided to try [Jekyll](https://jekyllrb.com).
 
-<!--more-->
+<!-- more -->
 
 ### Initial Setup
 
