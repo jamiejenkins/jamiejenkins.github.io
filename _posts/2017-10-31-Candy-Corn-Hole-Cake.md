@@ -8,5 +8,3 @@ published: True
 Halloween Candy Corn Cake!
 
 ![Candy Corn Hole Cake]({{ site.baseurl }}/images/candycornholecake.jpeg){:class="img-responsive"}
-
-<!-- more -->
