@@ -284,7 +284,9 @@ nav {
   padding-bottom: 2em;
   border-top: 1px solid $lightGray;
   // border-bottom: 1px solid $lightGray;
-  background-color: $lighterGray;
+  background-color: $white;
+  background: rgb(255,255,255);
+  background: rgba(255,255,255,.85);
   position: fixed;
   left: 0px;
   bottom: 0px;
