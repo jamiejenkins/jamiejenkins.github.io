@@ -184,7 +184,7 @@ img {
   float: left;
 
   @include mobile {
-    float: left;
+    float: none;
     display: block;
     margin: 0 auto;
   }
@@ -192,6 +192,7 @@ img {
 
 .site-name {
   margin: 0;
+  float: left;
   color: $darkGray;
   cursor: pointer;
   font-family: $helveticaNeue;
