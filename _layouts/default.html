@@ -29,6 +29,8 @@
             <a href="{{ site.baseurl }}/">Blog</a>
             <a href="{{ site.baseurl }}/about">About</a>
           </nav>  -->
+       
+       {% include tag-cloud.html %}
 
         </header>
       </div>
@@ -37,8 +39,6 @@
     <div id="main" role="main" class="container">
       {{ content }}
     </div>
-
-       {% include tag-cloud.html %}
 
     <div class="wrapper-footer">
       <div class="container">
