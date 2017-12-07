@@ -154,7 +154,9 @@ img {
   margin-bottom: 1em;
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
-  //background-color: $white;
+  background-color: $white;
+  background: rgb(255,255,255);
+  background: rgba(255,255,255,.75);
   position: fixed;
   left: 0px;
   top: 0px;
