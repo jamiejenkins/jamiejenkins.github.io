@@ -29,14 +29,13 @@
             <a href="{{ site.baseurl }}/">Blog</a>
             <a href="{{ site.baseurl }}/about">About</a>
           </nav>  -->
-       
-       {% include tag-cloud.html %}
 
         </header>
       </div>
     </div>
 
     <div id="main" role="main" class="container">
+      {% include tag-cloud.html %}
       {{ content }}
     </div>
 
