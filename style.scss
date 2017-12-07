@@ -273,13 +273,13 @@ nav {
 .wrapper-footer {
   margin-top: 1em;
   padding-bottom: 2em;
-  border-top: 1px solid $lightGray;
+  border-top: 2px solid $lightGray;
   // border-bottom: 1px solid $lightGray;
   background-color: $lighterGray;
   position: fixed;
   left: 0px;
   bottom: 0px;
-  height: 4em;
+  height: 5em;
   width: 100%;
 }
 
@@ -290,7 +290,7 @@ footer {
 
 .copyright {
   text-align: center;
-  font-size: 8pt;
+  font-size: 9pt;
 }
 
 // for tag cloud and archives
