@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Red, White, and Blew it
+date: 2018-04-09 09:00:01 -0600
 tags: Apple
 published: True
 ---
