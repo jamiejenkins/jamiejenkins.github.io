@@ -3,6 +3,7 @@ layout: default
 ---
 
 <article class="post">
+<div id="main" role="main" class="container">
   <h1>{{ page.title }}</h1>
 
   {% include post-tags.html %}
@@ -16,8 +17,9 @@ layout: default
   </div>
   {% if page.updated %}
   <div class="date">
-  Updated on {{ page.updated | date: "%B %e, %Y" }}
+    Updated on {{ page.updated | date: "%B %e, %Y" }}
   </div>
   {% endif%}
+</div>
   <!--{% include disqus.html %}-->
 </article>
