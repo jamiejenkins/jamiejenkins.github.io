@@ -8,4 +8,6 @@ published: True
 
 Upgrade in progress
 
-Jekyll upgrade complete?
+Jekyll upgrade complete!
+
+Auto Deploy Script Test
