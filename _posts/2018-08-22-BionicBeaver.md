@@ -7,3 +7,5 @@ published: True
 ---
 
 Upgrade in progress
+
+Jekyll upgrade complete?
