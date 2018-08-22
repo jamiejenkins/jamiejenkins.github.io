@@ -3,11 +3,13 @@ layout: post
 title: Bionic Beaver
 tags: 
 - Jekyll
-published: True
+published: 
 ---
 
-Upgrade in progress
+Upgrade to Ubuntu 18.04 completed
 
-Jekyll upgrade complete!
+Jekyll upgrade completed
 
 Auto Deploy Script Test
+
+
