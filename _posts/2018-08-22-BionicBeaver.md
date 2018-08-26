@@ -3,7 +3,7 @@ layout: post
 title: Bionic Beaver
 tags: 
 - Jekyll
-published: False
+published: True
 ---
 
 Upgrade to Ubuntu 18.04 completed
@@ -12,4 +12,4 @@ Jekyll upgrade completed
 
 Auto Deploy Script Test
 
-
+Converted to Nginx 
