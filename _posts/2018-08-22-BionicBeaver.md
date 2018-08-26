@@ -15,3 +15,5 @@ Auto Deploy Script Test
 Converted to Nginx 
 
 Installed PHP-FPM
+
+Fixed?
