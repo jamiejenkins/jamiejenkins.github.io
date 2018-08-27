@@ -10,6 +10,7 @@
     $commands = array(
         'whoami',
         'gitsitepull',
+        
     );
 
     // exec commands
@@ -25,12 +26,12 @@
 <html lang="en-US">
 <head>
     <meta charset="UTF-8">
-    <title>GIT DEPLOYMENT SCRIPT</title>
+    <title>Git Deployment & Jekyll Rebuild Scripts</title>
 </head>
 <body style="background-color: #000000; color: #FFFFFF; font-weight: bold; padding: 0 10px;">
 <div style="width:700px">
     <div style="float:left;width:350px;">
-    <p style="color:white;">Git Deployment Script</p>
+    <p style="color:white;">Git Deployment and Jekyll Rebuild Scripts</p>
     <?php echo $output; ?>
     </div>
 </div>
