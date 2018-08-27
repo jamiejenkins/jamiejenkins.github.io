@@ -18,6 +18,8 @@ avatar: https://jamiejenkins.com/images/avatar.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble: #jamiejenkins
+  mastodon_instance: jenkins.cc
+  mastodon_user: jamie
   twitter: jamiejenkins
   facebook: jamiejenkins
   reddit: jamie_jenkins
