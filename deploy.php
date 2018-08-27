@@ -10,7 +10,7 @@
     $commands = array(
         'whoami',
         'gitsitepull',
-        
+        'jbsite',
     );
 
     // exec commands
