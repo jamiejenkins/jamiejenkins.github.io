@@ -3,7 +3,7 @@ layout: post
 title: Bionic Beaver
 tags: 
 - Jekyll
-published: True
+published: False
 ---
 
 Upgrade to Ubuntu 18.04 completed
