@@ -3,7 +3,7 @@ layout: post
 title: Bionic Beaver
 tags: 
 - Jekyll
-published: False
+published: True
 ---
 
 Upgrade to Ubuntu 18.04 completed
@@ -16,4 +16,4 @@ Converted to Nginx
 
 Installed PHP-FPM
 
-Fixed?
+Ignore this post 😉
