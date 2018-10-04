@@ -3,6 +3,5 @@ layout: blank
 permalink: /taglist/
 ---
 
-{% for tag in site.tags %}                                                                                                     {{ tag | first }}                                                                                                  
+{% for tag in site.tags %}                                                                                                     {{ tag | first | slugify }}                                                                                                  
 {% endfor %}                                                                                                             
-
