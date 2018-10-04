@@ -2,7 +2,7 @@
 layout: post
 title: Red, White, and Blew it
 updated: April 9, 2018
-tags: Apple
+tags: apple
 published: True
 ---
 

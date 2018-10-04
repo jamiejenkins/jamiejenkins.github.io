@@ -2,7 +2,7 @@
 layout: post
 title: Bionic Beaver
 tags: 
-- Jekyll
+- jekyll
 published: True
 ---
 

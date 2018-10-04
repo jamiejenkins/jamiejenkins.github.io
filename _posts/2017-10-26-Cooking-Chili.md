@@ -3,7 +3,7 @@ layout: post
 title: Cooking Chili
 tags: 
 - cooking
-- Apple
+- apple
 published: True
 ---
 
