@@ -4,6 +4,5 @@ permalink: /taglist/
 ---
 
 {% for tag in site.tags %}                                                                                               
-      {{ tag | jsonify }}                                                                                                  
+      {{ tag | slugify }}                                                                                                  
 {% endfor %}                                                                                                             
-
