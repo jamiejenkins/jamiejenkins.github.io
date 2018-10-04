@@ -3,6 +3,4 @@ layout: blank
 permalink: /taglist/
 ---
 
-{% for tag in site.tags %}
-{{ tag }}
-{% endfor %}
+{{ site.tags | jsonify }}
