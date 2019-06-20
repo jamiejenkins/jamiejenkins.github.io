@@ -23,6 +23,9 @@ body {
   color: $darkGray;
 }
 
+
+:root { color-scheme: lightdark;
+}
 .container {
   margin: 0 auto;
   max-width: 740px;
